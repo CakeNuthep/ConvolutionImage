@@ -36,9 +36,9 @@ namespace Convolution
             Bitmap newImage = new Bitmap(originImage.Width,originImage.Height);
             int indexXCenter = 1;
             int indexYCenter = 1;
-            for (int x = indexXCenter; x < originImage.Width-indexXCenter; x++)
+            for (int y = indexYCenter; y < originImage.Height - indexYCenter; y++)
             {
-                for (int y = indexYCenter; y < originImage.Height-indexYCenter; y++)
+                for (int x = indexXCenter; x < originImage.Width - indexXCenter; x++)
                 {
                     Color newPixelColor = sumKernel(x, y, kernel, image);
                     newImage.SetPixel(x, y, newPixelColor);
