@@ -1,0 +1,9 @@
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\bin\Debug\Convolution.exe.config
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\bin\Debug\Convolution.exe
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\bin\Debug\Convolution.pdb
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.csprojAssemblyReference.cache
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.Form1.resources
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.Properties.Resources.resources
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.csproj.GenerateResource.cache
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.exe
+D:\blogs\Youtube\My Chanel\ECoding\Create\Convolution\Convolution\Convolution\obj\Debug\Convolution.pdb
